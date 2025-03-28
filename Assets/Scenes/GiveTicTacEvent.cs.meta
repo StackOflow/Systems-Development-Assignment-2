@@ -1,10 +1,11 @@
 fileFormatVersion: 2
-guid: 77db8099bbd9e8f489ee5ce8adbf17f6
+guid: dae879acedc8b9e4cbbf2b61cd7efa57
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - thePrize: {fileID: 6225245592253522380, guid: dee52e5bf60ae644692a6e2e222ced64, type: 3}
+  - receivedText: {instanceID: 0}
+  - ticTacPrefab: {fileID: 6225245592253522380, guid: dee52e5bf60ae644692a6e2e222ced64, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
